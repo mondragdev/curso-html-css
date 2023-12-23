@@ -42,3 +42,16 @@ a {
 .caja5 {
   background-color: green;
 }
+
+.input, .boton {
+  padding: 5px 10px;
+  height: 30px;
+  border-radius: 3px;
+  border-width: 1px;
+}
+
+.boton {
+  background-color: blueviolet;
+  border: 1px solid blueviolet;
+  
+}
