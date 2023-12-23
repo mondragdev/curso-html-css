@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: rgb(45, 124, 226);
+}
+h1 {
+  color: rgb(43, 233, 233);
+  width: 200px;
+  padding: 30px;
+}
+body {
+  color:  rgb(36, 241, 241);
+}
+a {
+  color:rgb(0, 255, 221)
+}
+
+.container {
+  border: rgb(255, 0, 13) 2px solid;
+}
+.caja {
+  width: 100px;
+  height: 100px;
+}
+
+.caja1 {
+  background-color: aqua;
+}
+.caja2 {
+  background-color: maroon;
+}
+.caja3 {
+  background-color: blueviolet;
+}
+.caja4 {
+  background-color: darkcyan;
+}
