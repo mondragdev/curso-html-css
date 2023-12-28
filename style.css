@@ -41,32 +41,29 @@ a {
   position relative
   border-radius 12px
 }
-  
+
 .contenedor {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
- video {
-   display: inline-block;
-   margin: 0;
-   
- }
+.video {
+display: inline-block;
+  margin: 0;
+
+}
   .contenedor2 {
-    
+
   display: flex;
     flex-direction: column;
     justify-content: center;
-  
+
 }
- video {
-   display: inline-block;
-   margin: 0;
-   
- }
-  
- 
+video {
+  display: inline-block;
+  margin: 0;
+}
 
 
 
