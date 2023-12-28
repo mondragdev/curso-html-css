@@ -1,69 +1,7 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
 
-header {
-  background-color: blue;
-}
-h1 {
-  color: rgb(43, 233, 233);
-  width: 200px;
-  padding: 30px;
-}
-body {
-  color: red!important
-}
-a {
-  color:rgb(0, 255, 221)
-}
 
-.container {
-  border: rgb(255, 0, 13) 2px block;
-}
 
-.input, .boton {
-  padding: 5px 10px;
-  height: 30px;
-  border-radius: 3px;
-  border-width: 1px;
-  width: 100%;
-}
 
-.boton {
-  background: blue;
-  cursor: Pointer ;
-  border: none;
-  padding: 16px 32;
-  color:red;
-  font-size: 24px
-  position relative
-  border-radius 12px
-}
-
-.contenedor {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.video {
-display: inline-block;
-  margin: 0;
-
-}
-  .contenedor2 {
-
-  display: flex;
-    flex-direction: column;
-    justify-content: center;
-
-}
-video {
-  display: inline-block;
-  margin: 0;
-}
 
 
 
